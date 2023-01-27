@@ -1,3 +1,5 @@
-a=10
-b=9
-print (a+b)
+a=1
+b=2
+c=10
+print (a+b+c)
+
