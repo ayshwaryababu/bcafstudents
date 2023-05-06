@@ -1,3 +1,4 @@
 a=10
 b=2
-print (a+b)
+c=2
+print (a+b+c)
